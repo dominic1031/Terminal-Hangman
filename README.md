@@ -1,6 +1,5 @@
 # Terminal-Hangman
-![image](https://user-images.githubusercontent.com/70504211/160810059-4ad1e76c-4cac-47e0-a72f-ffd28ad1ebe9.png)
-
+![image](https://user-images.githubusercontent.com/70504211/160812055-b6a297f3-a02e-4994-a1d1-93ebd6ae5935.png)
 # Gameplay
 1. Select a difficulty
 ![image](https://user-images.githubusercontent.com/70504211/160810350-54a426b7-4e18-4b1f-af7b-46475de7a421.png)
